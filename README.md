@@ -38,7 +38,7 @@ Agenda
   - ThingsSpeak
   - Google Cloud
   
- - [ Workshops ](Workshops/)
+- [ Workshops ](Workshops/)
   - UN Habitat Makerthon
   - MEST IoT Workshop
   
