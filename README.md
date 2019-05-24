@@ -16,17 +16,13 @@ Agenda
   - Intel's IoT Libraries (MRAA and UPM)
   - Communiction Protocols (HTTP, MQTT, IoTivity, Zigbee, Z-Wave, LoRa, NB-IoT, ...)
   - Grove Kit
-- [IoT Cloud Platforms](IoT-Cloud-Platforms/)
-  - Amazon AWS
-  - IBM Bluemix & Watson
-  - Microsoft Azure
-  - ThingsSpeak
-  - Google Cloud
+  
 - [Arduino MKR FOX 1200](Arduino-Fox1200/)
   - Programming using Arduino IDE
   - Programming using MCU SDK
   - Intel Knowledge Builder Toolkit
   - Curie Neurons
+  
 - [Intel Edison](Intel-Edison/)
   - Setting up Intel Edison
   - Building Yocto Linux and Deploying It
@@ -36,6 +32,13 @@ Agenda
   - Installing Node-RED
   - Installing Android Things
   - Programming using Android Studio
+  
+  - [IoT Cloud Platforms](IoT-Cloud-Platforms/)
+  - Amazon AWS
+  - IBM Bluemix & Watson
+  - Microsoft Azure
+  - ThingsSpeak
+  - Google Cloud
   
 Get in touch - Let's become friends
 ----------------------------------
