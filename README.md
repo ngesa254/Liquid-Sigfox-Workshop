@@ -33,10 +33,10 @@ Agenda
   - Installing Android Things
   - Programming using Android Studio
   
-- [IoT Cloud Platforms](IoT-Cloud-Platforms/)
+- [ Cloud ](Cloud/)
+  - Microsoft Azure
   - Amazon AWS
   - IBM Bluemix & Watson
-  - Microsoft Azure
   - ThingsSpeak
   - Google Cloud
   
