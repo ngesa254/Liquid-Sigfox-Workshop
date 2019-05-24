@@ -38,6 +38,10 @@ Agenda
   - ThingsSpeak
   - Google Cloud
   
+  - [ Workshops ](Workshops/)
+  - UN Habitat Makerthon
+  - MEST IoT Workshop
+  
 Get in touch - Let's become friends
 ----------------------------------
 
