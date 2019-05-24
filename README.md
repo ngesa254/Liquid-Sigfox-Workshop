@@ -3,8 +3,6 @@ Liquid Telecom IoT Workshop
 
 💻 ⚡️  📺 Content of IoT workshops 
 
-Introduction to the key concepts of making your device Sigfox ready
-
 This repository contains the documentation and materials of IoT workshops held by Liquid Telecom. Each workshop covers a different subset of the content below, and each chapter's materials are collected in a separate folder. 
 
 Agenda
