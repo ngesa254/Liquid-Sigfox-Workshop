@@ -5,7 +5,7 @@ Liquid Telecom IoT Workshop
 
 This repository contains the documentation and materials of IoT workshops held by Liquid Telecom. Each workshop covers a different subset of the content below, and each chapter's materials are collected in a separate folder. 
 
-Agenda
+Section
 -------------
 - [IoT Basics](IoT-Basics/)
   - Definition of IoT
