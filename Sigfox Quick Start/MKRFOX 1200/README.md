@@ -6,9 +6,9 @@ The following sketches are available:
 
 - **Sigfox_Initial_Config:** retrieves ID and PAC information to register the board on https://buy.sigfox.com
 
-- **MKRFOX-hello-world:** sends multiple numerical values on Sigfox network
+- **hello-sigfox:** sends multiple numerical values on Sigfox network
 
-- **MKRFOX-downlink:** similar to hello world but with downlink message requested by the board. The downlink content is displayed in the Serial Monitor
+- **sigfox-downlink:** similar to hello world but with downlink message requested by the board. The downlink content is displayed in the Serial Monitor
 
 - Others
   - [ Event trigger](https://www.arduino.cc/en/Tutorial/SigFoxEventTrigger)
