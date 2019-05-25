@@ -9,3 +9,6 @@ The following sketches are available:
 - **MKRFOX-hello-world:** sends multiple numerical values on Sigfox network
 
 - **MKRFOX-downlink:** similar to hello world but with downlink message requested by the board. The downlink content is displayed in the Serial Monitor
+
+- Others
+  - [ Event trigger](https://www.arduino.cc/en/Tutorial/SigFoxEventTrigger)
