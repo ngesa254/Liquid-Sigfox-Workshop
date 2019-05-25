@@ -27,7 +27,7 @@ Section
   - Installing Android Things
   - Programming using Android Studio
   
-- [ Cloud ](Cloud/)
+- :partly_sunny: [ Cloud ](Cloud/)
   - [Microsoft Azure](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
   - Amazon AWS
   - IBM Bluemix & Watson
