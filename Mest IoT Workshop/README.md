@@ -1,6 +1,6 @@
 # Liquid Telecom Sigfox Workshops
 
-Resources and code sample for Liquid Telecom IoT workshop.
+Resources and code sample for Liquid Telecom IoT workshop at [MEST Africa Summit](https://www.mestafricasummit.com/).
 
 
 # Workshop Schedule
