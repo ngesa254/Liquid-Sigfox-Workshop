@@ -16,6 +16,8 @@ Section
   
 - [Arduino MKR FOX 1200](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/MKRFOX%201200)
   - Programming using Arduino IDE
+  
+- :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
     
 - [Intel Edison](Intel-Edison/)
   - Setting up Intel Edison
@@ -38,7 +40,6 @@ Section
   - UN Habitat Makerthon
   - MEST IoT Workshop
  
-- :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
   
 Get in touch - Let's become friends
 ----------------------------------
