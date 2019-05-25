@@ -10,16 +10,12 @@ Section
 - [IoT Basics](IoT-Basics/)
   - Definition of IoT
   - Building Blocks of IoT
-  - Intel’s IoT Devices
-  - Intel's IoT Libraries (MRAA and UPM)
+  - Edge
+  - Cloud
   - Communiction Protocols (HTTP, MQTT, IoTivity, Zigbee, Z-Wave, LoRa, NB-IoT, ...)
-  - Grove Kit
   
 - [Arduino MKR FOX 1200](Arduino-Fox1200/)
   - Programming using Arduino IDE
-  - Programming using MCU SDK
-  - Intel Knowledge Builder Toolkit
-  - Curie Neurons
   
 - [Intel Edison](Intel-Edison/)
   - Setting up Intel Edison
@@ -42,7 +38,7 @@ Section
   - UN Habitat Makerthon
   - MEST IoT Workshop
   
-- [ Other Resources ](Workshops/)
+- Other Resources 
   - [ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
   
   ## Other Lists
