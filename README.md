@@ -39,7 +39,7 @@ Section
   - MEST IoT Workshop
   
 - Other Resources 
-  - [ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
+  - :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
   
   ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects
