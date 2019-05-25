@@ -14,7 +14,7 @@ Section
   - Cloud
   - Communiction Protocols
   
-- [Arduino MKR FOX 1200](Arduino-Fox1200/)
+- [Arduino MKR FOX 1200](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/MKRFOX%201200)
   - Programming using Arduino IDE
     
 - [Intel Edison](Intel-Edison/)
