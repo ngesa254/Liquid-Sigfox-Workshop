@@ -28,7 +28,7 @@ Section
   - Programming using Android Studio
   
 - [ Cloud ](Cloud/)
-  - Microsoft Azure
+  - [Microsoft Azure](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
   - Amazon AWS
   - IBM Bluemix & Watson
   - ThingsSpeak
