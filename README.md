@@ -31,7 +31,7 @@ Section
   - Google Cloud
   
 - [ Workshops ](Workshops/)
-  - UN Habitat Makerthon
+  - [UN Habitat Makerthon](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/UN%20Habitat%20Makerthon)
   - MEST IoT Workshop
  
   
