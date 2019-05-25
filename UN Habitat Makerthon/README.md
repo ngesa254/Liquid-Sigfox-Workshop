@@ -8,7 +8,7 @@ from 25 to 31 May 2019 at the UN Office in Nairobi (UNON).
 
 Resources for the projects and code sample for UN Habitat Makerthon.
 
-# Workshop Schedule
+# Makerthon Schedule
 Date | Location 
 ---------------|------------
 25 to 31 May 2019 | United Nations Gigiri
@@ -21,6 +21,11 @@ Item  | Part Number | Amount
 Sigfox UnaShield |  | 1 
 Arduino | MKR Fox 1200 | 1 
 Micro USB cable | Type A. |
+
+# Makerthon Teams
+Team| Project 
+---------------|------------
+25 to 31 May 2019 | United Nations Gigiri
 
 
 ## Software
