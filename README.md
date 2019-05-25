@@ -42,7 +42,7 @@ Section
   - UN Habitat Makerthon
   - MEST IoT Workshop
   
-- [ Other Resources ](Workshops/)
+- Other Resources 
   - [ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
   
   ## Other Lists
