@@ -30,7 +30,7 @@ Section
   - ThingsSpeak
   - Google Cloud
   
-- [ Workshops ](Workshops/)
+- Workshops 
   - [UN Habitat Makerthon](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/UN%20Habitat%20Makerthon)
   - MEST IoT Workshop
  
