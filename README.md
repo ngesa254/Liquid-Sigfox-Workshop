@@ -32,7 +32,7 @@ Section
   
 - Workshops 
   - [UN Habitat Makerthon](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/UN%20Habitat%20Makerthon)
-  - MEST IoT Workshop
+  - [MEST IoT Workshop](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Mest%20IoT%20Workshop)
  
   
 Get in touch - Let's become friends
