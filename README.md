@@ -12,7 +12,7 @@ Section
   - Building Blocks of IoT
   - Edge
   - Cloud
-  - Communiction Protocols (HTTP, MQTT, IoTivity, Zigbee, Z-Wave, LoRa, NB-IoT, ...)
+  - Communiction Protocols
   
 - [Arduino MKR FOX 1200](Arduino-Fox1200/)
   - Programming using Arduino IDE
