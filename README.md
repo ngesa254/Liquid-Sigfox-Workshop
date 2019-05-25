@@ -17,7 +17,7 @@ Section
 - [Arduino MKR FOX 1200](Arduino-Fox1200/)
   - Programming using Arduino IDE
   
-- [ WiSOL SFM10R1](WiSOL SFM10R1/)
+- [WiSOL SFM10R1](WiSOL SFM10R1/)
   - Programming using Arduino IDE
 
   
