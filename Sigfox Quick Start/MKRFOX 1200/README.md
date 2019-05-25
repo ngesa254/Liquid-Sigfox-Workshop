@@ -4,7 +4,7 @@ This repository contains simple examples to get started with Arduino MKRFox1200.
 
 The following sketches are available:
 
-- **MKRFox-init:** retrieves ID and PAC information to register the board on https://buy.sigfox.com
+- **Sigfox_Initial_Config:** retrieves ID and PAC information to register the board on https://buy.sigfox.com
 
 - **MKRFOX-hello-world:** sends multiple numerical values on Sigfox network
 
