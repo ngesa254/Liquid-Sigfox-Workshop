@@ -13,7 +13,6 @@ Section
   - Edge
   - Cloud
   - Communiction Protocols (HTTP, MQTT, IoTivity, Zigbee, Z-Wave, LoRa, NB-IoT, ...)
-  - Cloud
   
 - [Arduino MKR FOX 1200](Arduino-Fox1200/)
   - Programming using Arduino IDE
