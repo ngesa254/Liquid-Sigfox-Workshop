@@ -23,7 +23,7 @@ Section
 
 - :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
      
-- :partly_sunny: Cloud 
+- :partly_sunny: [Cloud](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
   - [Microsoft Azure](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
   - Amazon AWS
   - IBM Bluemix & Watson
