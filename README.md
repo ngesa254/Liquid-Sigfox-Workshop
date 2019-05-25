@@ -7,7 +7,7 @@ This repository contains the documentation and materials of IoT workshops held b
 
 Section
 -------------
-- [IoT Basics](IoT-Basics/)
+- IoT Basics
   - Definition of IoT
   - Building Blocks of IoT
   - Edge
