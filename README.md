@@ -18,17 +18,7 @@ Section
   - Programming using Arduino IDE
   
 - :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
-    
-- [Intel Edison](Intel-Edison/)
-  - Setting up Intel Edison
-  - Building Yocto Linux and Deploying It
-  - Programming using Arduino IDE
-  - Programming using Intel System Studio (C++ and Java)
-  - Programming using Intel XDK (Node.JS)
-  - Installing Node-RED
-  - Installing Android Things
-  - Programming using Android Studio
-  
+     
 - :partly_sunny: [ Cloud ](Cloud/)
   - [Microsoft Azure](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
   - Amazon AWS
