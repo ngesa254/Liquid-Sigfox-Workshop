@@ -41,10 +41,10 @@ This repository contains the documentation and materials of IoT workshops held b
 ## [Cloud](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
 
   ### :partly_sunny: [Microsoft Azure](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
-  ### Amazon AWS
-  ### IBM Bluemix & Watson
-  ### ThingsSpeak
-  ### Google Cloud
+  - Amazon AWS
+  - IBM Bluemix & Watson
+  - ThingsSpeak
+  - Google Cloud
   
 ## Workshops 
   - [UN Habitat Makerthon](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/UN%20Habitat%20Makerthon)
