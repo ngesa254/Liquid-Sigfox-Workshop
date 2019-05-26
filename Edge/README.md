@@ -66,6 +66,12 @@ Vin. The input voltage to the Arduino/Genuino board when it's using an external 
  c. GND. Ground pins.
     
  d. IOREF. This pin on the Arduino/Genuino board provides the voltage reference with which the microcontroller operates. A properly configured shield can read the IOREF pin voltage and select the appropriate power source or enable voltage translators on the outputs to work with the 5V or 3.3V.
+ 
+  * Tx power of a device
+  
+The maximum power that can be radiated by a device using the 868 MHz sub-band band in Europe (and other territories compliant with the ETSI EN 300 220 regulation) is 25 mW (14 dBm) ERP.
+
+Since this is radiated power, it already includes the antenna gain.
 
  - Memory (ATmega328P)
  
