@@ -13,33 +13,11 @@ This list is for websites, services, software, tools and more: everything that y
 ## Contents
 
 <!-- toc -->
--[Power Calculations]
+- [Power Calculations](#power-calculations)
 - [ Awesome Electronics ](https://github.com/kitspace/awesome-electronics)
 - [Learning](#learning)
   * [Technical Tutorials](#technical-tutorials)
   * [Theory and Courses](#theory-and-courses)
-- [Simulators](#simulators)
-- [Gerber Viewers](#gerber-viewers)
-  * [Online](#online)
-  * [Installable](#installable)
-- [Free EDA Packages](#free-eda-packages)
-- [CAD Specific](#cad-specific)
-  * [KiCAD](#kicad)
-  * [Eagle](#eagle)
-- [PCB Batching Services](#pcb-batching-services)
-- [Part Search Engines](#part-search-engines)
-- [Project Sharing Platforms](#project-sharing-platforms)
-- [Inventory Management and Purchasing](#inventory-management-and-purchasing)
-- [Miscellaneous Web Services](#miscellaneous-web-services)
-- [Development Board Retailers](#development-board-retailers)
-- [Blogs](#blogs)
-- [Forums](#forums)
-  * [Discussion](#discussion)
-  * [Help](#help)
-- [Podcasts](#podcasts)
-- [Videos](#videos)
-- [Subscription Kit Services](#subscription-kit-services)
-- [Other Lists](#other-lists)
 
 <!-- tocstop -->
 
