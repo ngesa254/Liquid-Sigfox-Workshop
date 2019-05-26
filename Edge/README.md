@@ -1,6 +1,6 @@
 # Edge: Embedded Electronics 
 
-> A curated list of resources for building Embedded Electronics
+> Curated resources for building Embedded Electronics
 
 Electronic engineering (EE) is the practice of understanding, designing and building electronic circuits. 
 
