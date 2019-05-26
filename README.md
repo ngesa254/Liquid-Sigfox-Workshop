@@ -50,10 +50,10 @@ This repository contains the documentation and materials of IoT workshops held b
   - [UN Habitat Makerthon](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/UN%20Habitat%20Makerthon)
   - [MEST IoT Workshop](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Mest%20IoT%20Workshop)
  
-  
+Found this useful ❤️? Support by clicking the ⭐️ button on the upper right of this page. ✌️
+
 Get in touch - Let's become friends
 ----------------------------------
-
 
 Please feel free to contact me if you have any questions, ideas or even if you just want to say hi. I’m up for talking, exchange ideas, collaborations or consults. You can connect with me through any of the avenues listed below:
 
@@ -62,10 +62,4 @@ Please feel free to contact me if you have any questions, ideas or even if you j
 - [Facebook](https://web.facebook.com/marvinngesa)
 - [LinkedIn](https://www.linkedin.com/in/engngesamarvin) 
 
-Found this useful ❤️? Support by clicking the ⭐️ button on the upper right of this page. ✌️
-
-References
-----------
-
--
 
