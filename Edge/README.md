@@ -48,6 +48,11 @@ You are bypassing the reverse protection diode this way, so make sure you have g
 You can measure between the 5.5V and ground if you are measuring voltage using the DV Volts setting on your meter.
 If you want to measure current, to need to insert your meter between the 5V source and the 5V connection of your circuit so you can see  how much current is going into your circuit, you would do that with the mA setting on your meter.
 
+ - Memory (ATmega328P)
+ 
+a. Flash Memory	32 KB (ATmega328P) of which 0.5 KB used by bootloader
+b. SRAM	2 KB (ATmega328P)
+c. EEPROM	1 KB (ATmega328P)
 
 ### Technical Tutorials
 - [Beginning Eembedded Eelectronics](https://www.sparkfun.com/tutorials/category/1) - A wide variety of technical tutorials on various EE related skills.
