@@ -1,14 +1,16 @@
 ## :earth_africa: Getting Started with [MKRFox1200](https://www.arduino.cc/en/Main.ArduinoBoardMKRFox1200) 
 
-This repository contains simple examples to get started with Arduino MKRFox1200.
+This repository contains simple examples and curated links to guide on how to get started with Arduino MKRFox1200.
 
  # Prerequisite
-- Activate your device and create an account (if you don't already have one) on the [Sigfox Backend](https://backend.sigfox.com/activate) platform
+- Activate your device and create an account (if you don't already have one) on the [Sigfox Backend](https://backend.sigfox.com/activate) platform. Liquid Telecom will do this for you.
 
 ## Installations
+
 1. Install the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 2. Select the MKRFox1200 board
 3. Install the following librairies:
+
     * Arduino SigFox for MKRFox1200
     * Arduino Low Power
 
@@ -21,7 +23,8 @@ The following sketches are available:
 
 - **sigfox-downlink:** similar to hello world but with downlink message requested by the board. The downlink content is displayed in the Serial Monitor
 
-- Others
+## Links
+  - [SigFox library](https://www.arduino.cc/en/Reference/SigFox)
   - [ Event trigger](https://www.arduino.cc/en/Tutorial/SigFoxEventTrigger)
   
  
