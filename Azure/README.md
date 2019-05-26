@@ -1,7 +1,7 @@
 
 ## Microsoft Azure :partly_sunny: 🎧
 
-- 📚 Microsoft Azure resources:
+📚 Microsoft Azure resources:
 
 
  * :octocat:[Awesome Azure IoT](https://github.com/Azure/iot) - A curated list of awesome Azure Internet of Things projects and resources.
