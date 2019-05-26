@@ -12,6 +12,9 @@ This repository contains the documentation and materials of IoT workshops held b
 - [Edge: Embedded Electronics](#edge-embedded-electronics)
    * [Arduino MKR FOX 1200](#mkr-fox)
    * [WiSOL SFM10R1](#wisol-sfm10r1)
+- [Cloud](#cloud)
+   * [Microsoft Azure](#microsoft-azure)
+
 
 <!-- tocstop -->
   
