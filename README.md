@@ -38,7 +38,7 @@ This repository contains the documentation and materials of IoT workshops held b
   ### ThingsSpeak
   ### Google Cloud
   
-- Workshops 
+## Workshops 
   - [UN Habitat Makerthon](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/UN%20Habitat%20Makerthon)
   - [MEST IoT Workshop](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Mest%20IoT%20Workshop)
  
