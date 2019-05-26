@@ -10,7 +10,6 @@ Electronic engineering (EE) is the practice of understanding, designing and buil
 
 <!-- toc -->
 
-- [ Awesome Electronics ](https://github.com/kitspace/awesome-electronics)
 - [Learning](#learning)
    * [Power Calculations](#power-calculations)
    * [Technical Tutorials](#technical-tutorials)
@@ -78,3 +77,4 @@ The ATmega328 has 32 KB (with 0.5 KB occupied by the bootloader). It also has 2 
 
 ## Other Resources
 - [How to Measure Current consumption and why you should do it?](https://thekurks.net/blog/2018/1/4/measure-current-consumption) - A tutorial explaining how to measure the current draw of your project, and why it is so important to know / do this.
+- [ Awesome Electronics ](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists
