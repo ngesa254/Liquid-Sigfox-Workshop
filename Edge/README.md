@@ -16,17 +16,17 @@ This list is for websites, services, software, tools and more: everything that y
 
 - [ Awesome Electronics ](https://github.com/kitspace/awesome-electronics)
 - [Learning](#learning)
-  * [Technical Tutorials](#technical-tutorials)
-  * [Power Calculations](#power-calculations)
+   * [Power Calculations](#power-calculations)
+   * [Technical Tutorials](#technical-tutorials)
 
 <!-- tocstop -->
 
 ## Learning
 
+### Power Calculations
+
 ### Technical Tutorials
 - [Beginning Eembedded Eelectronics](https://www.sparkfun.com/tutorials/category/1) - A wide variety of technical tutorials on various EE related skills.
-
-### Power Calculations
 
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects
