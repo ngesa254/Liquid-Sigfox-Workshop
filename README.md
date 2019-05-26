@@ -33,12 +33,12 @@ This repository contains the documentation and materials of IoT workshops held b
   ### [WiSOL SFM10R1](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/WiSOL%20SFM10R1)
     - Programming using Arduino IDE
 
-## :satellite: [Connectivity](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
-  ### [ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
+## [Connectivity](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
+  ### :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
    
-## :partly_sunny: [Cloud](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
+## [Cloud](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
 
-  ### [Microsoft Azure](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
+  ### :partly_sunny: [Microsoft Azure](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
   ### Amazon AWS
   ### IBM Bluemix & Watson
   ### ThingsSpeak
