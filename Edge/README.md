@@ -22,7 +22,15 @@ Electronic engineering (EE) is the practice of understanding, designing and buil
 
 Guide on power budget calculation for your embedded IoT protoype (Arduino + all the electronics connected to it.)
 
- * [Arduino MKR FOX 1200](https://store.arduino.cc/arduino-mkrfox1200)
+ * [Arduino MKR FOX 1200](https://store.arduino.cc/arduino-mkrfox1200) 
+ 
+Combines the functionality of the Zero and SigFox connectivity.
+ 
+Its design includes the ability to power the board using two 1.5V AA or AAA batteries or external 5V. Switching from one source to the other is done automatically.
+
+NB - MKRFOX1200 runs at 3.3V. The maximum voltage that the I/O pins can tolerate is 3.3V. Applying voltages higher than 3.3V to any I/O pin could damage the board. While output to 5V digital devices is possible, bidirectional communication with 5V devices needs proper level shifting.
+
+ 
  * [Arduino Uno Rev3](https://store.arduino.cc/arduino-uno-rev3)
  
 
