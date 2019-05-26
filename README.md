@@ -39,6 +39,7 @@ This repository contains the documentation and materials of IoT workshops held b
 
 Sigfox is first and only cellular network operator dedicated to M2M & the Internet of Things. 
 
+  ### :satellite:[Sigfox Quick Start](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start)
   ### :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
    
 ## [Cloud](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
