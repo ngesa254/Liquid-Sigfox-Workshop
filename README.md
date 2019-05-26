@@ -14,6 +14,8 @@ This repository contains the documentation and materials of IoT workshops held b
    * [WiSOL SFM10R1](#wisol-sfm10r1)
 - [Cloud](#cloud)
    * [Microsoft Azure](#microsoft-azure)
+- [Workshops](#workshops)
+   * [UN Habitat Smart City Makerthon](#un-habitat-makerthon)
 
 
 <!-- tocstop -->
@@ -28,13 +30,13 @@ This repository contains the documentation and materials of IoT workshops held b
 
 
 - :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
-     
-- :partly_sunny: [Cloud](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
-  - [Microsoft Azure](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
-  - Amazon AWS
-  - IBM Bluemix & Watson
-  - ThingsSpeak
-  - Google Cloud
+   
+## :partly_sunny: [Cloud](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
+  ### [Microsoft Azure](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
+  ### Amazon AWS
+  ### IBM Bluemix & Watson
+  ### ThingsSpeak
+  ### Google Cloud
   
 - Workshops 
   - [UN Habitat Makerthon](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/UN%20Habitat%20Makerthon)
