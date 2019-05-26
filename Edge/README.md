@@ -25,6 +25,11 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Power Calculations
 
+ How to calculate the battery usage of your Arduino and all the electronics connected to it.
+ 
+ * [Arduino MKR FOX 1200](https://store.arduino.cc/arduino-mkrfox1200)
+ * [Arduino Uno Rev3](https://store.arduino.cc/arduino-uno-rev3)
+
 ### Technical Tutorials
 - [Beginning Eembedded Eelectronics](https://www.sparkfun.com/tutorials/category/1) - A wide variety of technical tutorials on various EE related skills.
 
