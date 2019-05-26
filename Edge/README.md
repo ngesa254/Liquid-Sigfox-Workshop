@@ -77,4 +77,4 @@ The ATmega328 has 32 KB (with 0.5 KB occupied by the bootloader). It also has 2 
 - [Beginning Eembedded Eelectronics](https://www.sparkfun.com/tutorials/category/1) - A wide variety of technical tutorials on various EE related skills.
 
 ## Other Resources
-- [HOW TO MEASURE CURRENT CONSUMPTION AND WHY SHOULD YOU DO IT?](https://thekurks.net/blog/2018/1/4/measure-current-consumption) - A tutorial explaining how to measure the current draw of your project, and why it is so important to know / do this.
+- [How to Measure Current consumption and why you should do it?](https://thekurks.net/blog/2018/1/4/measure-current-consumption) - A tutorial explaining how to measure the current draw of your project, and why it is so important to know / do this.
