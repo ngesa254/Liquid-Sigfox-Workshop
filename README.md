@@ -18,7 +18,7 @@ This repository contains the documentation and materials of IoT workshops held b
 
 <!-- tocstop -->
   
-## [Edge Embedded Electronics](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
+## [Edge: Embedded Electronics](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
 
   ### [Arduino MKR FOX 1200](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/MKRFOX%201200)
   - Programming using Arduino IDE
