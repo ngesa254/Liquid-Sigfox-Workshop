@@ -8,9 +8,13 @@ Experimenting with and building electronic circuits is also a popular hobby and 
 
 This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. 
 
+
+
 ## Contents
 
 <!-- toc -->
+-[Power Calculations]
+- [ Awesome Electronics ](https://github.com/kitspace/awesome-electronics)
 - [Learning](#learning)
   * [Technical Tutorials](#technical-tutorials)
   * [Theory and Courses](#theory-and-courses)
