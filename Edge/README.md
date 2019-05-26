@@ -29,14 +29,16 @@ Guide on power budget calculation for your embedded IoT protoype (Arduino + all 
 
    - Pins & Operating Voltage
    
-Arduino Uno has a 20 mA DC Current per I/O Pin and 50 mA DC Current for 3.3V Pin. If you have 5 LEDs at 20mA each I/O Pin then that is 100mA making a total of ( 100 + 50 = 150 ) mA.
- 
-To calculate how long your battery last, you need to consider its capacity. For a 5000mA/h battery this will last (very approximately)
+Arduino Uno has an operating voltage of 5V, It's recommended input voltage is between 7-12V and the limit is at 20V. It has 14 (of which 6 provide PWM output) digital I/O Pins.	
 
-5000 / 150 = 33.33 hours or 1.388 days
    - Current
 
-Arduino Uno has an operating voltage of 5V, It's recommended input voltage is between 7-12V and the limit is at 20V. It has 14 (of which 6 provide PWM output) digital I/O Pins.	
+Arduino Uno has a 20 mA DC Current per I/O Pin and 50 mA DC Current for 3.3V Pin. If you have 5 LEDs at each 20mA I/O Pin, then that is 100mA making a total of ( 100 + 50 = 150 ) mA.
+ 
+To calculate how long your battery last, you need to consider it's capacity. For a 5000mA/h battery this will last (very approximately)
+
+5000 / 150 = 33.33 hours or 1.388 days
+
 
     - Using a multimeter 
  
