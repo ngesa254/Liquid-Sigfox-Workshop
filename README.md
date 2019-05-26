@@ -36,6 +36,9 @@ This repository contains the documentation and materials of IoT workshops held b
    - Programming using Arduino IDE
 
 ## [Connectivity](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
+
+Sigfox - The first and only cellular network operator dedicated to M2M & the Internet of Things
+
   ### :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
    
 ## [Cloud](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
