@@ -1,4 +1,4 @@
-# Getting Started with [MKRFox1200](https://www.arduino.cc/en/Main.ArduinoBoardMKRFox1200) :satellite::earth_africa:
+# :earth_africa: Getting Started with [MKRFox1200](https://www.arduino.cc/en/Main.ArduinoBoardMKRFox1200) 
 
 This repository contains simple examples to get started with Arduino MKRFox1200.
 
