@@ -5,15 +5,6 @@ Liquid Telecom IoT Workshop
 
 This repository contains the documentation and materials of IoT workshops held by Liquid Telecom. Each workshop covers a different subset of the content below, and each chapter's materials are collected in a separate folder. 
 
-Section
--------------
-- IoT Basics
-  - Definition of IoT
-  - Building Blocks of IoT
-  - Communiction Protocols
-  
-  
-
 ## Contents
 
 <!-- toc -->
@@ -23,7 +14,7 @@ Section
 
 <!-- tocstop -->
   
-- [Edge + Embedded Electronics](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
+### [Edge + Embedded Electronics](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
   
 - [Arduino MKR FOX 1200](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/MKRFOX%201200)
   - Programming using Arduino IDE
