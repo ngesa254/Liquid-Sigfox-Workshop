@@ -1,14 +1,4 @@
-Liquid Telecom IoT Workshop
-===========================
-
-💻 ⚡️  📺 Content of IoT workshops 
-
-This repository contains the documentation and materials of IoT workshops held by Liquid Telecom. Each workshop covers a different subset of the content below, and each chapter's materials are collected in a separate folder. 
-
-Section
--------------
-
-# Embeded Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Edge: Embedded Electronics 
 
 > A curated list of awesome resources for electronic engineers and hobbyists
 
