@@ -12,8 +12,13 @@ This repository contains the documentation and materials of IoT workshops held b
 - [Edge: Embedded Electronics](#edge-embedded-electronics)
    * [Arduino MKR FOX 1200](#arduino-mkr-fox-1200)
    * [WiSOL SFM10R1](#wisol-sfm10r1)
+   
+- [Connectivity](#connectivity)
+   * [Awesome Sigfox](#awesome-sigfox)
+   
 - [Cloud](#cloud)
    * [Microsoft Azure](#microsoft-azure)
+   
 - [Workshops](#workshops)
    * [UN Habitat Smart City Makerthon](#un-habitat-makerthon)
 
@@ -22,16 +27,17 @@ This repository contains the documentation and materials of IoT workshops held b
   
 ## [Edge: Embedded Electronics](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
 
-  - [Arduino MKR FOX 1200](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/MKRFOX%201200)
+  ### [Arduino MKR FOX 1200](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/MKRFOX%201200)
     - Programming using Arduino IDE
   
-  - [WiSOL SFM10R1](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/WiSOL%20SFM10R1)
+  ### [WiSOL SFM10R1](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/WiSOL%20SFM10R1)
     - Programming using Arduino IDE
 
-## [Connectivity](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
-  - :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
+## :satellite: [Connectivity](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
+  ### [ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
    
 ## :partly_sunny: [Cloud](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
+
   ### [Microsoft Azure](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Azure)
   ### Amazon AWS
   ### IBM Bluemix & Watson
