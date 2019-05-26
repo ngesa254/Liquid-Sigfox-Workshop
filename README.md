@@ -28,10 +28,12 @@ This repository contains the documentation and materials of IoT workshops held b
 ## [Edge: Embedded Electronics](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
 
   ### 📱 [Arduino MKR FOX 1200](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/MKRFOX%201200)
-    - Programming using Arduino IDE
+   
+   - Programming using Arduino IDE
   
   ### [WiSOL SFM10R1](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Sigfox%20Quick%20Start/WiSOL%20SFM10R1)
-    - Programming using Arduino IDE
+   
+   - Programming using Arduino IDE
 
 ## [Connectivity](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
   ### :satellite:[ Awesome Sigfox ](https://github.com/ngesa254/awesome-sigfox)
