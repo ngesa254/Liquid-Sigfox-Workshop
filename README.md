@@ -10,7 +10,7 @@ Section
 - IoT Basics
   - Definition of IoT
   - Building Blocks of IoT
-  - Edge
+  - [Edge](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/Edge)
   - Cloud
   - Communiction Protocols
   
