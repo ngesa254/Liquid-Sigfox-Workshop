@@ -26,7 +26,8 @@ The following sketches are available:
 
 ## Issues
 
-- MKRFOX 1200 loosing ports
+- MKRFOX 1200 losing ports
+- Activation of devices
 - MKRFOX not transmitting despite coverage in the area
 
 ## Links
