@@ -26,6 +26,6 @@ The following sketches are available:
 ## Links
   - [SigFox library](https://www.arduino.cc/en/Reference/SigFox) - This library allows you to use the ATMEL SigFox transceiver (ATAB8520E) on the Arduino MKRFOX1200 board.
  -
-  - [ Event trigger](https://www.arduino.cc/en/Tutorial/SigFoxEventTrigger)
+  - [ Getting Started with the Arduino MKRFOX1200](https://www.arduino.cc/en/Guide/MKRFox1200)
   
  
