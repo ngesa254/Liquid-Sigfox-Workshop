@@ -23,6 +23,12 @@ The following sketches are available:
 
 - **sigfox-downlink:** similar to hello world but with downlink message requested by the board. The downlink content is displayed in the Serial Monitor
 
+
+## Issues
+
+- MKRFOX 1200 loosing ports
+- MKRFOX not transmitting despite coverage in the area
+
 ## Links
   - [SigFox library](https://www.arduino.cc/en/Reference/SigFox) - This library allows you to use the ATMEL SigFox transceiver (ATAB8520E) on the Arduino MKRFOX1200 board.
   - [ Getting Started with the Arduino MKRFOX1200](https://www.arduino.cc/en/Guide/MKRFox1200)
