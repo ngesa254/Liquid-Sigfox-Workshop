@@ -24,7 +24,8 @@ The following sketches are available:
 - **sigfox-downlink:** similar to hello world but with downlink message requested by the board. The downlink content is displayed in the Serial Monitor
 
 ## Links
-  - [SigFox library](https://www.arduino.cc/en/Reference/SigFox)
+  - [SigFox library](https://www.arduino.cc/en/Reference/SigFox) - This library allows you to use the ATMEL SigFox transceiver (ATAB8520E) on the Arduino MKRFOX1200 board.
+ -
   - [ Event trigger](https://www.arduino.cc/en/Tutorial/SigFoxEventTrigger)
   
  
