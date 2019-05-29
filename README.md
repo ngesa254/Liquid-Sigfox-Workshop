@@ -48,7 +48,8 @@ This repository contains the documentation and materials of IoT workshops held b
   - Amazon AWS
   - IBM Bluemix & Watson
   - ThingsSpeak
-  - Google Cloud
+  - [Google Cloud](https://cloud.google.com/community/tutorials/sigfox-gw)
+  - [thethings.iO](https://developers.thethings.io/docs/sigfox-devices)
   
 ## Workshops 
   - [UN Habitat Makerthon](https://github.com/ngesa254/Liquid-Sigfox-Workshop/tree/master/UN%20Habitat%20Makerthon)
