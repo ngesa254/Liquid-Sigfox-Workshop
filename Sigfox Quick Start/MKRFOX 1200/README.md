@@ -25,7 +25,11 @@ The following sketches are available:
 
 ## Sent to Sigfox Examples
 
-- [Sigfox Forest Fire Detector](https://www.hackster.io/luisomoreau/sigfox-forest-fire-detector-9fd55b)
+- [Sigfox Forest Fire Detector](https://www.hackster.io/luisomoreau/sigfox-forest-fire-detector-9fd55b)Sigfox kWh Meter
+- [Sigfox kWh Meter](https://www.hackster.io/jassak/sigfox-kwh-meter-d53f2c)
+- [The Environment Cube! Know the Land Beneath You using Sigfox](https://www.hackster.io/dhairya-parikh/the-environment-cube-know-the-land-beneath-you-using-sigfox-952f29)
+- [Emergency Power Bank](https://www.hackster.io/TAD2000/emergency-power-bank-5a69bd)
+- [MKR FOX 1200 Weather Monitor](https://www.hackster.io/Arduino_Genuino/mkr-fox-1200-weather-monitor-6a94e2)
 
 ## Issues
 
