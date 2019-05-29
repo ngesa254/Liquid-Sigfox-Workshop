@@ -23,6 +23,9 @@ The following sketches are available:
 
 - **sigfox-downlink:** similar to hello world but with downlink message requested by the board. The downlink content is displayed in the Serial Monitor
 
+## Sent to Sigfox Examples
+
+- [Sigfox Forest Fire Detector](https://www.hackster.io/luisomoreau/sigfox-forest-fire-detector-9fd55b)
 
 ## Issues
 
