@@ -18,6 +18,12 @@ This repository contains the documentation and materials of IoT workshops held b
    
 - [Cloud](#cloud)
    * [Microsoft Azure](#microsoft-azure)
+
+   
+- [Communication & Payments APIs](#communication-payment-api)
+  * [Africa's Talking](#africas-talking)
+  * [twilio](#twilio)
+
    
 - [Workshops](#workshops)
    * [UN Habitat Smart City Makerthon](#un-habitat-makerthon)
