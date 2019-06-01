@@ -1,7 +1,7 @@
 Liquid Telecom IoT Workshop
 ===========================
 
-💻 ⚡️  📺 Content of IoT workshops 
+💻 ⚡️  📺 End to end Content of IoT workshops 
 
 This repository contains the documentation and materials of IoT workshops held by Liquid Telecom. Each workshop covers a different subset of the content below, and each chapter's materials are collected in a separate folder. 
 
