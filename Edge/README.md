@@ -84,6 +84,15 @@ Since this is radiated power, it already includes the antenna gain.
  - Memory (ATmega328P)
  
 The ATmega328 has 32 KB (with 0.5 KB occupied by the bootloader). It also has 2 KB of SRAM and 1 KB of EEPROM (which can be read and written with the EEPROM library).
+- [Battery Life Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-battery-life)
+
+The capacity of the battery can be mathematically derived from the following formula:
+
+Battery Life = Battery Capacity in mAh / Load Current in mA * 0.70
+
+*The factor of 0.7 makes allowances for external factors which can affect battery life.
+
+Runtime = (10 * Ampere Hours) / Load in Watts
 
 ### Technical Tutorials
 - [Beginning Eembedded Eelectronics](https://www.sparkfun.com/tutorials/category/1) - A wide variety of technical tutorials on various EE related skills.
